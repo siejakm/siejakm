@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**siejakm/siejakm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of pages wich i`ve made in 2021 and 2022. Since then i`ve made a big progress, but new websites are still in production so I can`t show them to you :(
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://zaho.pl/
+https://afirmax.eu/pl
+https://franczyza.intermarche.pl/
+https://franczyza.bricomarche.pl/
+https://hfood.pl/
+https://kybrands.com/
+
+
+ReactJS projects:
+https://www.konfigurator.zaho.pl/login - i`ve made struckture in React bootstrap, styling and easy part of logic.
+
+
+Wordpress - 
+https://groweeclub.com/active/ - connecting tamplate with wordpress 
+
+- 🌱 I’m currently learning ReactJS
+
