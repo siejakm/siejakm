@@ -1,6 +1,6 @@
 Hi there 👋
 
-Here are some of pages wich i`ve made in 2021 and 2022. Since then i`ve made a big progress, but new websites are still in production so I can`t show them to you :(
+Here are some of pages wich i have made in 2021 and 2022. Since then i have made a big progress, but new websites are still in production so I can`t show them to you :(
 
 
 https://zaho.pl/
