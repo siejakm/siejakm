@@ -17,11 +17,11 @@ https://kybrands.com/
 
 
 ReactJS projects:
-https://www.konfigurator.zaho.pl/login - i`ve made struckture in React bootstrap, styling and easy part of logic.
+https://www.konfigurator.zaho.pl/login - i`ve made structure in React bootstrap, styling and easy part of logic.
 
 
 Wordpress - 
-https://groweeclub.com/active/ - connecting tamplate with wordpress 
+https://groweeclub.com/active/ - connecting template with wordpress 
 
 - 🌱 I’m currently learning ReactJS
 
