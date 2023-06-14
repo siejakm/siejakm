@@ -1,6 +1,6 @@
 Hi there 👋
 
-Here are some of pages wich i have made in 2021 and 2022. Since then i have made a big progress, but new websites are still in production so I can`t show them to you :(
+Here are some of pages wich i have made in 2021 and 2022. Most of pages which i've done in 2023 are still on production, so i can't link them here.
 
 
 https://zaho.pl/
@@ -17,7 +17,7 @@ https://kybrands.com/
 
 
 ReactJS projects:
-https://www.konfigurator.zaho.pl/login - i`ve made structure in React bootstrap, styling and easy part of logic.
+https://www.konfigurator.zaho.pl/login - i've made structure in React bootstrap, styling and part of logic.
 
 
 Wordpress - 
