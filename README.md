@@ -1,6 +1,7 @@
 Hi there 👋
 
-Here are some of pages wich i have made in 2021 and 2022. Most of pages which i've done in 2023 are still on production, so i can't link them here.
+Here are some of pages wich i have made in 2021 and 2022. Most of pages which i've done in 2023 are still on production, so i can't link them here. 
+I also worked with the team on a large internal application for the company written in react.js, but unfortunately I have no way to present it
 
 
 https://www.konfigurator.zaho.pl/login - I'm proud and happy to have had the opportunity to work on this amazing desktop project for zaho using reactJS.
@@ -9,9 +10,9 @@ https://zaho.pl/
 <br>
 https://afirmax.eu/pl
 <br>
-https://wondrous-kangaroo-294709.netlify.app/
+https://effervescent-heliotrope-725a42.netlify.app/
 <br>
-https://wonderful-salmiakki-7d7b9a.netlify.app/
+https://melodic-frangipane-72fd9c.netlify.app/
 <br>
 https://franczyza.intermarche.pl/
 <br>
