@@ -1,10 +1,8 @@
 Hi there 👋
 
-Here are some of pages wich i have made in 2021 and 2022. Most of pages which i've done in 2023 are still on production, so i can't link them here. 
-I also worked with the team on a large internal application for the company written in react.js, but unfortunately I have no way to present it
+Here is my portfolio. Some of pages which i`ve done in my 2.5 years long career as a frontend/webdeveloper.
 
-
-https://www.konfigurator.zaho.pl/login - I'm proud and happy to have had the opportunity to work on this amazing desktop project for zaho using reactJS.
+the websites listed below were written using technologies such as - HTML (I use Twig templates to write HTML to minimize the risk of mistakes, ensure order and a minimum amount of code, facilitate the work of backend developers), jQuery, javascript, scss, tailwind, css :
 <br>
 https://zaho.pl/
 <br>
@@ -27,11 +25,19 @@ https://radiant-faloodeh-e0db56.netlify.app/
 https://kybrands.com/
 <br>
 https://reliable-axolotl-79d183.netlify.app/
-
-
+<br>
+ReactJS, SCSS:
+<br>
+https://www.konfigurator.zaho.pl/login - I'm proud and happy to have had the opportunity to work on this amazing desktop project for zaho using reactJS.
+<br>
+I also worked with the team on a large internal application for the company written in react.js
+<br>
+<br>
 
 Wordpress - 
-https://groweeclub.com/active/ - connecting template with wordpress 
+https://groweeclub.com/active/ - connecting template with wordpress
+<br>
+I also built stores on Prestashop and WordPress, but the client for whom I built these websites had some problems, which is why the websites were not made public. Therefore, I cannot link them here, but if necessary, I can present them during the meeting :)
 
 
 
